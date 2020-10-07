@@ -1,0 +1,47 @@
+body {
+ font-family: sans-serif;
+}
+
+.navbar {
+ padding: 0;
+ border: 1px solid grey;
+}
+.navbar a {
+ margin-left: 20px;
+}
+.nav-item {
+ background-color: white;
+}
+.nav-item hr {
+ margin: 0 auto;
+ width: 80%;
+}
+/* Menu */
+.main-content {
+ margin: 0;
+ width: 100%;
+ max-width: inherit;
+}
+.row .menu-type {
+ margin: 10px 0;
+ background-color: lightgray;
+}
+.menu-title {
+ font-size: 1.5em;
+ font-weight: bold;
+ margin: 20px 0;
+ text-align: center; 
+}
+.menu-option {
+ font-size: 1.3em;
+ font-weight: bold;
+ text-align: center;
+ padding-top: 10px;
+}
+.menu-description {
+ font-size: .8em;
+ font-style: italic;
+ text-align: left;
+ padding: 10px;
+}
+/* End Menu */
